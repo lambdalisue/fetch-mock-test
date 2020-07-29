@@ -2,6 +2,8 @@
 
 This is a project to reproduce "NotSupportedError: ReadableStream uploading is not supported" in Safari when fetch has mocked by [fetch-mock][].
 
+https://github.com/wheresrhys/fetch-mock/issues/584
+
 ![](https://user-images.githubusercontent.com/546312/88761220-a79d3f00-d1a9-11ea-8027-2a80bbc48fb7.png)
 
 Confirmed with Safari version 13.1.2 (15609.3.5.1.3) on macOS Catalina version 10.15.6
